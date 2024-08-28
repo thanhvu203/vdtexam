@@ -1,0 +1,8 @@
+name: vdtexam
+description: A sample Dart project.
+
+dependencies:
+  # Add your project dependencies here
+
+dev_dependencies:
+  test: ^1.19.5
